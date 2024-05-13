@@ -1,0 +1,9 @@
+1
+09:00 18:00
+10
+10:00 1 client1
+10:00 1 client2
+10:00 1 client3
+10:00 2 client1 1
+10:01 3 client2
+10:01 3 client3
