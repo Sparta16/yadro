@@ -1,14 +1,14 @@
 package app
 
 import (
+	"github.com/Sparta16/yadro/app/pkg/client"
+	"github.com/Sparta16/yadro/app/pkg/event"
+	table2 "github.com/Sparta16/yadro/app/pkg/table"
 	"os"
 	"sort"
 	"strconv"
 	"strings"
 	"time"
-	"yadro/app/pkg/client"
-	"yadro/app/pkg/event"
-	table2 "yadro/app/pkg/table"
 )
 
 func Club() string {

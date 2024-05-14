@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"yadro/app/pkg"
+	"github.com/Sparta16/yadro/app/pkg"
 )
 
 func main() {

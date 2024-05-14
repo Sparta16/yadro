@@ -2,11 +2,11 @@ package event
 
 import (
 	"errors"
+	"github.com/Sparta16/yadro/app/pkg/client"
+	"github.com/Sparta16/yadro/app/pkg/table"
 	"strconv"
 	"strings"
 	"time"
-	"yadro/app/pkg/client"
-	"yadro/app/pkg/table"
 )
 
 var (
